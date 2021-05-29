@@ -10,5 +10,5 @@ script:
   
    - docker run nitinjain786/docker-react npm run test -- --coverage
 
-    
+
 
